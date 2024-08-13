@@ -1,6 +1,6 @@
 
 
-![Frontend Screenshot](https://github.com/dreamAI0129/Hotel-Room-Booking-System/main/frontend-screenshot.png)
+![Frontend Screenshot](https://github.com/dreamAI0129/Hotel_Room_Booking_System/raw/main/frontend-screenshot.png?raw=true)
 
 # Beach Resort | Hotel Room Booking System
 
