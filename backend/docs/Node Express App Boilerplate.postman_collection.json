@@ -52,7 +52,13 @@
                 "url": {
                   "raw": "{{APP_URL}}/api/v1/auth/reset-password/3b0a6b4d09086605ece4b2e379b877d285259532",
                   "host": ["{{APP_URL}}"],
-                  "path": ["api", "v1", "auth", "reset-password", "3b0a6b4d09086605ece4b2e379b877d285259532"]
+                  "path": [
+                    "api",
+                    "v1",
+                    "auth",
+                    "reset-password",
+                    "3b0a6b4d09086605ece4b2e379b877d285259532"
+                  ]
                 }
               },
               "response": []
@@ -107,7 +113,7 @@
                 },
                 {
                   "key": "fullName",
-                  "value": "Md. Samiur Rahman Mukul",
+                  "value": "Robert Wang",
                   "description": "required",
                   "type": "text"
                 },
@@ -302,7 +308,13 @@
             "url": {
               "raw": "{{APP_URL}}/api/v1/auth/verify-email/9d8dd8ae04e5122c33ca039ce8086ea577216c1a",
               "host": ["{{APP_URL}}"],
-              "path": ["api", "v1", "auth", "verify-email", "9d8dd8ae04e5122c33ca039ce8086ea577216c1a"]
+              "path": [
+                "api",
+                "v1",
+                "auth",
+                "verify-email",
+                "9d8dd8ae04e5122c33ca039ce8086ea577216c1a"
+              ]
             }
           },
           "response": []
@@ -355,7 +367,7 @@
               "urlencoded": [
                 {
                   "key": "fullName",
-                  "value": "Md. Samiur Rahman Mukul",
+                  "value": "Robert Wang",
                   "description": "required",
                   "type": "text"
                 },
@@ -531,7 +543,12 @@
             "url": {
               "raw": "{{APP_URL}}/api/v1/unblocked-user/6363c09bb4e69a7935b823dc",
               "host": ["{{APP_URL}}"],
-              "path": ["api", "v1", "unblocked-user", "6363c09bb4e69a7935b823dc"]
+              "path": [
+                "api",
+                "v1",
+                "unblocked-user",
+                "6363c09bb4e69a7935b823dc"
+              ]
             }
           },
           "response": []

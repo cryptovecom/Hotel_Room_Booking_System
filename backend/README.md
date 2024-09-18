@@ -77,14 +77,6 @@ npm install -D @babel/core @babel/preset-env babel-jest
 jest --init // initialize jest for app testing
 ```
 
-<!-- my social media links -->
-
-[facebook-url]: https://www.facebook.com/SamiurRahmanMukul
-[instagram-url]: https://www.instagram.com/samiur_rahman_mukul
-[twitter-url]: https://www.twitter.com/SamiurRahMukul
-[linkedin-url]: https://www.linkedin.com/in/SamiurRahmanMukul
-[github-url]: https://www.github.com/SamiurRahmanMukul
-
 <!-- shield icon links -->
 
 [facebook-shield]: https://img.shields.io/badge/-Facebook-black.svg?style=flat-square&logo=facebook&color=555&logoColor=white
