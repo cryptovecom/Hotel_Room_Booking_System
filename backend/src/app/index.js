@@ -1,8 +1,8 @@
 /**
  * @name Hotel Room Booking System
- * @author Md. Samiur Rahman (Mukul)
- * @description Hotel Room Booking and Management System Software ~ Developed By Md. Samiur Rahman (Mukul)
- * @copyright Â©2023 â€• Md. Samiur Rahman (Mukul). All rights reserved.
+ * @author Robert Wang
+ * @description Hotel Room Booking and Management System Software ~ Developed By Robert Wang
+ * @copyright Â©2023 â€• Robert Wang. All rights reserved.
  * @version v0.0.1
  *
  */
